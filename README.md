@@ -1,4 +1,6 @@
 Computer Vision to detect the movement of the ball in the video:
+
+
 Identified
 - Number of times the ball bounces from the floor
 - The timestamp of each bounce
