@@ -1,4 +1,4 @@
-Computer Vision to detect the movement of the ball in the video:
+Computer Vision to detect the movement of the ball in the video :
 
 
 Identified
